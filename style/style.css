@@ -15,7 +15,7 @@
     padding: 38px 0 48px 0;
 }
 
-.header_flex, .footer_flex .about{
+.header_flex, .footer_flex, .about{
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -104,4 +104,5 @@
 .footer{
     background: rgba(255, 113, 67, 0.27);
     padding: 53px 0;
+
 }
